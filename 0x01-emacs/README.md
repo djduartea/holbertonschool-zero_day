@@ -1,0 +1,1 @@
+Comando para abrir un archivo desde EMAC
